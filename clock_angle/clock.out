@@ -1,0 +1,58 @@
+
+Enter hours: 
+9
+Enter minutes: 
+0
+Angle between hr and min=90
+
+Enter hours: 
+3
+Enter minutes: 
+30
+Angle between hr and min=75
+
+Enter hours: 
+5
+Enter minutes: 
+00
+Angle between hr and min=150
+
+Enter hours: 
+8
+Enter minutes: 
+45
+Angle between hr and min=8
+
+BONUS->
+
+Enter hours: 
+9
+Enter minutes: 
+0
+Enter seconds: 
+30
+Minute & sec : 177
+
+Enter hours: 
+3
+Enter minutes: 
+30
+Enter seconds: 
+45
+Minute & sec : 86
+
+Enter hours: 
+5
+Enter minutes: 
+00
+Enter seconds: 
+50
+Minute & sec : 65
+
+Enter hours: 
+8
+Enter minutes: 
+45
+Enter seconds: 
+5 
+Minute & sec : 120
